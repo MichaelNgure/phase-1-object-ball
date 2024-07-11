@@ -362,7 +362,8 @@ Okay, _now_ we're ready to build out functions:
   of the expected return value of the `playerStats` function:
 
 ```js
-playerStats("Alan Anderson")
+playerStats
+("Alan Anderson")
 // returns:
 {
   number: 0,
